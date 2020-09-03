@@ -19,7 +19,11 @@ nav{
 }
 
 .Titulo{
-    margin-top: 80px
+    margin-top: 80px;
+    -moz-text-align-last: center;
+    text-align-last: center;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 
