@@ -1,13 +1,13 @@
 li{
     display: inline-block;
-    text-align: left;
+    text-align: left
 }
 
 li a{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 10px
+    padding: 10px;
 }
 
 nav{
@@ -24,4 +24,17 @@ nav{
 
 body{
     text-align: center;
+    background-color: lightgrey;
+}
+
+p{
+    -moz-text-align-last: center;
+    text-align-last: center;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.Referencias{
+    padding: 0px, 80px;
+    text-align: left !important;
 }
