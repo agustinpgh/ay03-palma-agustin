@@ -1,0 +1,27 @@
+li{
+    display: inline-block;
+    text-align: left;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px
+}
+
+nav{
+    position: fixed;
+    background: url(https://www.lefdalmine.com/wp-content/uploads/sites/6/2013/04/background.jpg);
+    top: 0;
+    width: 100%;
+}
+
+.Titulo{
+    margin-top: 80px
+}
+
+
+body{
+    text-align: center;
+}
