@@ -7,6 +7,7 @@ li a{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 10px;
 }
 
@@ -23,7 +24,7 @@ nav{
 
 
 body{
-    text-align: center;
+    text-align: justify;
     background-color: lightgrey;
 }
 
@@ -34,7 +35,7 @@ p{
     padding-right: 80px;
 }
 
-.Referencias{
-    padding: 0px, 80px;
-    text-align: left !important;
+img{
+    display: block;
+    margin: 0 auto
 }
