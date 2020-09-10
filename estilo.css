@@ -26,6 +26,13 @@ nav{
     padding-right: 80px;
 }
 
+.Cuerpo{
+    margin-top: 80px;
+    -moz-text-align-last: center;
+    text-align-last: center;
+    padding-left: 80px;
+    padding-right: 80px;
+}
 
 body{
     text-align: justify;
